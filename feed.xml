@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>wule</title>
+    <link href="https://cfp106022219.github.io/resume/feed.xml" rel="self" />
+    <link href="https://cfp106022219.github.io/resume" />
+    <updated>2020-10-12T22:59:23+08:00</updated>
+    <author>
+        <name>wu</name>
+    </author>
+    <id>https://cfp106022219.github.io/resume</id>
+
+    <entry>
+        <title>高中經歷</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/gao-zhong-guo-zhan_-shu-xue-zu.html"/>
+        <id>https://cfp106022219.github.io/resume/gao-zhong-guo-zhan_-shu-xue-zu.html</id>
+            <category term="高中數學營"/>
+            <category term="高中國展"/>
+
+        <updated>2020-10-12T22:59:23+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>實驗物理_空間中的最速降線</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/shi-yan-wu-li_-zui-su-jiang-xian.html"/>
+        <id>https://cfp106022219.github.io/resume/shi-yan-wu-li_-zui-su-jiang-xian.html</id>
+            <category term="大二"/>
+            <category term="MATLAB"/>
+
+        <updated>2020-10-12T22:49:10+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>2020 Computation Biology Workshop</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/2020computation-biology-workshop.html"/>
+        <id>https://cfp106022219.github.io/resume/2020computation-biology-workshop.html</id>
+            <category term="講座"/>
+            <category term="大三"/>
+
+        <updated>2020-10-12T22:43:44+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>神經物理導論_視網膜側抑制造成的馬赫帶效應</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/shen-jing-wu-li-dao-lun_-shi-wang-mo-ce-yi-zhi-zao-cheng-de-ma-he-dai-xiao-ying.html"/>
+        <id>https://cfp106022219.github.io/resume/shen-jing-wu-li-dao-lun_-shi-wang-mo-ce-yi-zhi-zao-cheng-de-ma-he-dai-xiao-ying.html</id>
+            <category term="實驗專題"/>
+            <category term="大三"/>
+            <category term="LaTex"/>
+
+        <updated>2020-10-12T22:36:32+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>應用電子學實驗_電子存錢筒</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/ying-yong-dian-zi-xue-shi-yan.html"/>
+        <id>https://cfp106022219.github.io/resume/ying-yong-dian-zi-xue-shi-yan.html</id>
+            <category term="實驗專題"/>
+            <category term="大三"/>
+            <category term="LT spice"/>
+
+        <updated>2020-10-12T22:50:57+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>物理實驗技術_門禁密碼警報器</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/shi-yan-wu-li.html"/>
+        <id>https://cfp106022219.github.io/resume/shi-yan-wu-li.html</id>
+            <category term="實驗專題"/>
+            <category term="大二"/>
+            <category term="labview"/>
+            <category term="arduino"/>
+
+        <updated>2020-10-12T22:50:09+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>系學會學習photoshop小組</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/xi-tong.html"/>
+        <id>https://cfp106022219.github.io/resume/xi-tong.html</id>
+            <category term="大二"/>
+
+        <updated>2020-10-12T22:19:50+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>物理之夜_樂團</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/wu-li-zhi-ye_-le-tuan.html"/>
+        <id>https://cfp106022219.github.io/resume/wu-li-zhi-ye_-le-tuan.html</id>
+            <category term="活動"/>
+            <category term="大一"/>
+
+        <updated>2020-10-12T22:30:52+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>智慧無人機之關鍵技術演講</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/wu-ren-ji-yan-jiang.html"/>
+        <id>https://cfp106022219.github.io/resume/wu-ren-ji-yan-jiang.html</id>
+            <category term="講座"/>
+            <category term="大三"/>
+
+        <updated>2020-10-12T22:44:11+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cfp106022219.github.io/resume/media/posts/8/Wu-Ren-Ji.jpg" alt="" />
+                    智慧無人機之關鍵技術
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cfp106022219.github.io/resume/media/posts/8/Wu-Ren-Ji.jpg" alt="" />
+                <p>智慧無人機之關鍵技術</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>物理系女排_副隊長</title>
+        <author>
+            <name>wu</name>
+        </author>
+        <link href="https://cfp106022219.github.io/resume/wu-li-xi-nu-pai_-fu-dui-chang.html"/>
+        <id>https://cfp106022219.github.io/resume/wu-li-xi-nu-pai_-fu-dui-chang.html</id>
+            <category term="大三"/>
+
+        <updated>2020-10-12T22:30:24+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cfp106022219.github.io/resume/media/posts/7/Pai-Qiu.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cfp106022219.github.io/resume/media/posts/7/Pai-Qiu.jpg" alt="" />
+                <ul>
+<li> </li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
